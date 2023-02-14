@@ -1,0 +1,12 @@
+D:\Estudos\Todo\Todo.Domain\bin\Debug\net7.0\Todo.Domain.deps.json
+D:\Estudos\Todo\Todo.Domain\bin\Debug\net7.0\Todo.Domain.dll
+D:\Estudos\Todo\Todo.Domain\bin\Debug\net7.0\Todo.Domain.pdb
+D:\Estudos\Todo\Todo.Domain\obj\Debug\net7.0\Todo.Domain.csproj.AssemblyReference.cache
+D:\Estudos\Todo\Todo.Domain\obj\Debug\net7.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Todo\Todo.Domain\obj\Debug\net7.0\Todo.Domain.AssemblyInfoInputs.cache
+D:\Estudos\Todo\Todo.Domain\obj\Debug\net7.0\Todo.Domain.AssemblyInfo.cs
+D:\Estudos\Todo\Todo.Domain\obj\Debug\net7.0\Todo.Domain.csproj.CoreCompileInputs.cache
+D:\Estudos\Todo\Todo.Domain\obj\Debug\net7.0\Todo.Domain.dll
+D:\Estudos\Todo\Todo.Domain\obj\Debug\net7.0\refint\Todo.Domain.dll
+D:\Estudos\Todo\Todo.Domain\obj\Debug\net7.0\Todo.Domain.pdb
+D:\Estudos\Todo\Todo.Domain\obj\Debug\net7.0\ref\Todo.Domain.dll
